@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-4opgvw.planetjp.online/sitemap.xml
